@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RCC version="1.0">
+    <qresource>
+
+        <!--    MENU    -->
+        <file>res/images/Menu.jpg</file>
+        <file>res/images/StartButton.png</file> 
+                
+        <!--    Player  -->
+        <file>res/images/propKopUp.png</file>          
+        <file>res/images/propKopDown.png</file>
+        <file>res/images/propKopLeft.png</file>
+        <file>res/images/propKopRight.png</file>
+        
+        <file>res/images/RoboUp.png</file>
+        <file>res/images/RoboDown.png</file>
+        <file>res/images/RoboLeft.png</file>
+        <file>res/images/RoboRight.png</file>           
+       
+        <!--    BLOCKS  -->
+        <file>res/images/Solid.png</file>
+        <file>res/images/Ground.png</file>
+        <file>res/images/Fragile.png</file>       
+        <file>res/images/CollisionBlock.png</file>
+        
+        <!--    BOMB    -->
+        <file>res/images/Bombe.png</file>        
+        <file>res/images/Explosion.png</file>
+        
+        <!--    ITEMS   -->       
+        <file>res/images/Item_count.png</file>     
+        <file>res/images/Item_rad.png</file> 
+              
+              
+        <!--    Images by Jasmin Schiffers    -->
+    </qresource>
+</RCC>
