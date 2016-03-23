@@ -1,3 +1,5 @@
+//  Author: R. Schiffers
+
 #include "Bomb.h"
 
 Bomb::Bomb (int blockSize, int X, int Y, int radius, QGraphicsScene *scene)

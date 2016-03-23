@@ -1,3 +1,5 @@
+//  Author: R. Schiffers
+
 #ifndef EXPLOSIONBLOCK_H
 #define	EXPLOSIONBLOCK_H
 

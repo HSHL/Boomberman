@@ -1,3 +1,5 @@
+//  Author: R. Schiffers
+
 #include "Menu.h"
 
 Menu::Menu (int width, int height) : QGraphicsScene ()

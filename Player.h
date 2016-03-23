@@ -1,3 +1,5 @@
+//  Author: R. Schiffers
+
 #ifndef PLAYER_H
 #define	PLAYER_H
 

@@ -1,3 +1,5 @@
+//  Author: R. Schiffers
+
 #include "Item.h"
 
 Item::Item (int blockSize, int X, int Y, int typeDef)

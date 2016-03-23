@@ -1,3 +1,5 @@
+//  Author: R. Schiffers
+
 #include "Game.h"
 
 Game::Game (int blockSize, int X, int Y)

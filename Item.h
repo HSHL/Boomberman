@@ -1,3 +1,5 @@
+//  Author: R. Schiffers
+
 #ifndef ITEM_H
 #define	ITEM_H
 

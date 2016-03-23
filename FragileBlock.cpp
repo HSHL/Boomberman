@@ -1,3 +1,5 @@
+//  Author: R. Schiffers
+
 #include "FragileBlock.h"
 
 FragileBlock::FragileBlock (int blockSize, int X, int Y)

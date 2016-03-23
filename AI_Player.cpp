@@ -1,3 +1,5 @@
+//  Author: R. Schiffers
+
 #include "AI_Player.h"
 
 AI_Player::AI_Player (int blockSize, int posX, int posY, QGraphicsScene *scene)

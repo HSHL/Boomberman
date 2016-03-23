@@ -1,3 +1,5 @@
+//  Author: R. Schiffers
+
 #ifndef AI_PLAYER_H
 #define	AI_PLAYER_H
 

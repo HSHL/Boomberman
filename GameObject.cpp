@@ -1,3 +1,5 @@
+//  Author: R. Schiffers
+
 #include "GameObject.h"
 
 GameObject::GameObject (int blockSize, int X, int Y)

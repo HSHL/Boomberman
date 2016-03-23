@@ -1,3 +1,5 @@
+//  Author: R. Schiffers
+
 #ifndef GAME_H
 #define	GAME_H
 

@@ -1,3 +1,5 @@
+//  Author: R. Schiffers
+
 #ifndef BOMB_H
 #define	BOMB_H
 

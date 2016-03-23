@@ -1,3 +1,5 @@
+//  Author: R. Schiffers
+
 #ifndef MENU_H
 #define	MENU_H
 

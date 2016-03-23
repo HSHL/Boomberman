@@ -1,3 +1,5 @@
+//  Author: R. Schiffers
+
 #ifndef GROUNDBLOCK_H
 #define	GROUNDBLOCK_H
 

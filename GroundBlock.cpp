@@ -1,3 +1,5 @@
+//  Author: R. Schiffers
+
 #include "GroundBlock.h"
 
 GroundBlock::GroundBlock (int blockSize, int X, int Y) 

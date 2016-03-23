@@ -1,6 +1,7 @@
+//  Author: R. Schiffers
+
 #include <QApplication>
 #include <QTime>
-//#include <ctime>
 #include "Game.h"
 
 int

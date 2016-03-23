@@ -1,3 +1,5 @@
+//  Author: R. Schiffers
+
 #include "Player.h"
 
 Player::Player (int blockSize, int posX, int posY, QGraphicsScene *scene)

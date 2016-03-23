@@ -1,3 +1,5 @@
+//  Author: R. Schiffers
+
 #include "CollisionBlock.h"
 
 CollisionBlock::CollisionBlock (int blockSize, int X, int Y)

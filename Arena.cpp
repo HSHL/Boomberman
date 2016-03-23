@@ -1,3 +1,5 @@
+//  Author: R. Schiffers
+
 #include "Arena.h"
 
 Arena::Arena (int blockSize, int X, int Y)

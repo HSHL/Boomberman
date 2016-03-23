@@ -1,3 +1,5 @@
+//  Author: R. Schiffers
+
 #ifndef COLLISIONBLOCK_H
 #define	COLLISIONBLOCK_H
 

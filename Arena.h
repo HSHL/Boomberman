@@ -1,3 +1,5 @@
+//  Author: R. Schiffers
+
 #ifndef ARENA_H
 #define ARENA_H
 

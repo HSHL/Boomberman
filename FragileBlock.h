@@ -1,3 +1,5 @@
+//  Author: R. Schiffers
+
 #ifndef FRAGILEBLOCK_H
 #define	FRAGILEBLOCK_H
 

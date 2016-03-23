@@ -1,3 +1,5 @@
+//  Author: R. Schiffers
+
 #include "SolidBlock.h"
 
 SolidBlock::SolidBlock (int blockSize, int X, int Y) 

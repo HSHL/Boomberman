@@ -1,3 +1,5 @@
+//  Author: R. Schiffers
+
 #ifndef SOLIDBLOCK_H
 #define	SOLIDBLOCK_H
 

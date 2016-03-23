@@ -1,3 +1,5 @@
+//  Author: R. Schiffers
+
 #include "ExplosionBlock.h"
 #include "Player.h"
 
